@@ -28,6 +28,6 @@ Before running the program, ensure you have the following installed:
 
 1. **Clone the Repository or Download the Script:**
    ```bash
-   git clone https://github.com/yourusername/qrcode-generator.git
-   cd qrcode-generator
+   git clone https://github.com/mdnakibul/qr-gen-py.git
+   cd qr-gen-py
    ```
